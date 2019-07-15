@@ -1,5 +1,8 @@
---Download the dependecies
+
+Download the dependecies
+
 npm install
 
--- Start the Project
-npm start# Index
+Start the Project
+
+npm start
